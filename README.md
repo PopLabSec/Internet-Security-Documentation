@@ -6,16 +6,16 @@ Ethical Hacking Resources
 ## Certifications 
 
 
-- (eJPT)[]
-- (eCPPTv2)[]
-- (OSCP Guide 2023)[]
-- (Red Team OPS)[]
-- (LPIC1)[]
-- (LPIC2)[]
-- (LPIC3)[]
-- (CCNA)[]
-- (CCNP)[]
-- (Pentest+)[]
+- [eJPT](./eJPT)
+- [eCPPTv2]()
+- [OSCP Guide 2023]()
+- [Red Team OPS]()
+- [LPIC1]()
+- [LPIC2]()
+- [LPIC3]()
+- [CCNA]()
+- [CCNP]()
+- [Pentest+]()
 
 ## Hacking Networks
 
