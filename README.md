@@ -46,11 +46,11 @@ Ethical Hacking Resources
 
 ## Hacking Webapplications
 
-- XSS
-- SQLi
-- LFI/RFI
-- SSRF
-- IDOR
+- [XSS]()
+- [SQLi]()
+- [LFI/RFI]()
+- [SSRF]()
+- [IDOR]()
 
 ## Hacking WebServers
 
@@ -74,6 +74,14 @@ Ethical Hacking Resources
 - []()
 
 
+## Active Directory Security
+
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ## Cloud Hacking
 
 - [AWS]()
@@ -85,9 +93,9 @@ Ethical Hacking Resources
 
 ## Bug Bounty
 
-- []()
-- []()
-- []()
+- [Tools]()
+- [Methodologies]()
+- [Reporting]()
 
 ## Radio Hacking
 - [Wi-Fi Penetration Testing]()
