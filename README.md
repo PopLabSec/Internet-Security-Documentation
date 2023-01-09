@@ -99,10 +99,10 @@ Ethical Hacking Resources
 
 
 ## Car Hacking
-- []()
-- []()
-- []()
-- []()
+- [APIs]()
+- [Mobile Applications]()
+- [Cars - Radio Hacking]()
+- [CAN Bus Hacking]()
 - []()
 
 
@@ -125,7 +125,10 @@ Ethical Hacking Resources
 - [TryHackMe]()
 - [HackTheBox]()
 - [PwnUntilDown]()
-- []()
+- [Pentester Academy]()
 - []()
 - []()
 
+
+
+## Red Team
