@@ -73,6 +73,10 @@ Ethical Hacking Resources
 
 ## Bug Bounty
 
+- []()
+- []()
+- []()
+
 ## Radio Hacking
 - [Wi-Fi Penetration Testing]()
 - [Bluetooth Penetration Testing]()
@@ -81,14 +85,25 @@ Ethical Hacking Resources
 - [IoT Penetration Testing]()
 
 ## Car Hacking
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 ## Hacking Tools
 
+- []()
+- []()
+- []()
+
 
 ## Hacking Playgrounds
+- [TryHackMe]()
+- [HackTheBox]()
+- [PwnUntilDown]()
+- []()
+- []()
+- []()
 
-- (TryHackMe)[]
-- (HackTheBox)[]
-- (PwnUntilDown)[]
-- ()[]
-- ()[]
