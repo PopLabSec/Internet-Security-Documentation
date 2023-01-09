@@ -1,2 +1,65 @@
 # My-Hacking-Documentation
 Ethical Hacking Resources 
+
+
+
+## Certifications 
+
+- eJPT
+- eCPPTv2
+- OSCP Guide 2023
+- Red Team OPS
+
+
+## Hacking Networks
+
+- Port 21 FTP
+- Port 22 SSH
+- Port 23 Telnet
+- Port 25 SMTP
+- Port 161 SNMP
+- Port 3389 RDP
+- Port 445/139 SAMBA
+- Port 3389 MySQL
+- Port 389 LDAP
+- Port 135/137/138 NetBIOS
+- Port 111 RPC
+
+
+## Hacking Webapplications
+
+- XSS
+- SQLi
+- LFI/RFI
+- SSRF
+- IDOR
+
+
+## Hacking APIs
+
+- REST
+- SOAP
+
+## Hacking Infrastructures
+
+- Docker
+- Citrix
+- Virtualization
+- Kubernets
+
+
+## Cloud Hacking
+
+- AWS
+- Google
+- Azure
+- OVH
+- ORACLE
+
+
+## Bug Bounty
+
+## Radio Hacking
+
+
+## Car Hacking
