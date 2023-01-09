@@ -5,11 +5,17 @@ Ethical Hacking Resources
 
 ## Certifications 
 
-- eJPT
-- eCPPTv2
-- OSCP Guide 2023
-- Red Team OPS
 
+- (eJPT)[]
+- (eCPPTv2)[]
+- (OSCP Guide 2023)[]
+- (Red Team OPS)[]
+- (LPIC1)[]
+- (LPIC2)[]
+- (LPIC3)[]
+- (CCNA)[]
+- (CCNP)[]
+- (Pentest+)[]
 
 ## Hacking Networks
 
@@ -34,6 +40,12 @@ Ethical Hacking Resources
 - SSRF
 - IDOR
 
+## Hacking WebServers
+
+- Apache
+- NGINX
+- TomCat
+
 
 ## Hacking APIs
 
@@ -47,6 +59,7 @@ Ethical Hacking Resources
 - Virtualization
 - Kubernets
 
+- ()[]
 
 ## Cloud Hacking
 
@@ -60,6 +73,21 @@ Ethical Hacking Resources
 ## Bug Bounty
 
 ## Radio Hacking
-
+- (Wi-Fi Penetration Testing)[]
+- (Bluetooth Penetration Testing)[]
+- (SDR Penetration Testing)[]
+- (ZigBee Penetration Testing)[]
+- (IoT Penetration Testing)[]
 
 ## Car Hacking
+
+## Hacking Tools
+
+
+## Hacking Playgrounds
+
+- (TryHackMe)[]
+- (HackTheBox)[]
+- (PwnUntilDown)[]
+- ()[]
+- ()[]
