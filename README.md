@@ -6,31 +6,43 @@ Ethical Hacking Resources
 ## Certifications 
 
 
-- [eJPT](./eJPT)
-- [eCPPTv2]()
-- [OSCP Guide 2023]()
-- [Red Team OPS]()
+- [eJPT](https://ejpt-junior-pentester.popdocs.net/)
+- [eCPPTv2](https://ecpptv2.popdocs.net/)
+- [OSCP Guide 2023](https://oscp-guide.popdocs.net/)
+- [Red Team OPS](https://crto.popdocs.net/)
 - [LPIC1]()
 - [LPIC2]()
 - [LPIC3]()
 - [CCNA]()
 - [CCNP]()
-- [Pentest+]()
 
-## Hacking Networks
 
-- Port 21 FTP
-- Port 22 SSH
-- Port 23 Telnet
-- Port 25 SMTP
-- Port 161 SNMP
-- Port 3389 RDP
-- Port 445/139 SAMBA
-- Port 3389 MySQL
-- Port 389 LDAP
-- Port 135/137/138 NetBIOS
-- Port 111 RPC
+## Hacking Network Protocols
 
+- [Port 21 FTP](https://www.poplabsec.com/ftp-penetration-testing/)
+- [Port 22 SSH](https://www.poplabsec.com/ssh-penetration-testing/)
+- [Port 23 Telnet]()
+- [Port 25 SMTP]()
+- [Port 53 DNS](https://dns-penetration-testing.popdocs.net/)
+- [Port 161 SNMP]()
+- [Port 3389 RDP](https://www.poplabsec.com/rdp-penetration-testing/)
+- [Port 445/139 SAMBA](https://www.poplabsec.com/smb-penetration-testing/)
+- [Port 3389 MySQL]()
+- [Port 389 LDAP]()
+- [Port 135/137/138 NetBIOS](https://www.poplabsec.com/netbios-penetration-testing/)
+- [Port 111 RPC]()
+
+
+
+## Networking Attacks by OSI Layer
+
+- [Layer 1]()
+- [Layer 2]()
+- [Layer 3]()
+- [Layer 4]()
+- [Layer 5]()
+- [Layer 6]()
+- [Layer 7]()
 
 ## Hacking Webapplications
 
@@ -42,15 +54,15 @@ Ethical Hacking Resources
 
 ## Hacking WebServers
 
-- Apache
-- NGINX
-- TomCat
+- [Apache]()
+- [NGINX]()
+- [TomCat]()
 
 
 ## Hacking APIs
 
-- REST
-- SOAP
+- [REST]()
+- [SOAP]()
 
 ## Hacking Infrastructures
 
@@ -64,11 +76,11 @@ Ethical Hacking Resources
 
 ## Cloud Hacking
 
-- AWS
-- Google
-- Azure
-- OVH
-- ORACLE
+- [AWS]()
+- [Google]()
+- [Azure]()
+- [OVH]()
+- [ORACLE]()
 
 
 ## Bug Bounty
@@ -83,6 +95,8 @@ Ethical Hacking Resources
 - [SDR Penetration Testing]()
 - [ZigBee Penetration Testing]()
 - [IoT Penetration Testing]()
+- [GSM Penetration Testing]()
+
 
 ## Car Hacking
 - []()
@@ -94,10 +108,18 @@ Ethical Hacking Resources
 
 ## Hacking Tools
 
+- [CrackMapExec](https://crackmapexec.popdocs.net/)
+- [Metasploit]()
+- [GhostPack]()
+- [Nmap](https://nmap.popdocs.net/)
+- [Covenant]()
+- [Cobalt Strike]()
+- [Chisel]()
+- [SOCAT]()
+- [MimiKatz]()
+- [BloodHound]()
 - []()
 - []()
-- []()
-
 
 ## Hacking Playgrounds
 - [TryHackMe]()
