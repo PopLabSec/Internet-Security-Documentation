@@ -54,12 +54,13 @@ Ethical Hacking Resources
 
 ## Hacking Infrastructures
 
-- Docker
-- Citrix
-- Virtualization
-- Kubernets
 
-- ()[]
+- [Docker]()
+- [Citrix]()
+- [Kubernets]()
+- [Virtualization]()
+- []()
+
 
 ## Cloud Hacking
 
@@ -73,11 +74,11 @@ Ethical Hacking Resources
 ## Bug Bounty
 
 ## Radio Hacking
-- (Wi-Fi Penetration Testing)[]
-- (Bluetooth Penetration Testing)[]
-- (SDR Penetration Testing)[]
-- (ZigBee Penetration Testing)[]
-- (IoT Penetration Testing)[]
+- [Wi-Fi Penetration Testing]()
+- [Bluetooth Penetration Testing]()
+- [SDR Penetration Testing]()
+- [ZigBee Penetration Testing]()
+- [IoT Penetration Testing]()
 
 ## Car Hacking
 
